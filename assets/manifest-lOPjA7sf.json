@@ -1,0 +1,21 @@
+{
+  "short_name": "Backdrop",
+  "name": "Backdrop Studio",
+  "start_url": "/backdrop/",
+  "scope": "/backdrop/",
+  "display": "standalone",
+  "theme_color": "#09090b",
+  "background_color": "#09090b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3616/3616929.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3616/3616929.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
